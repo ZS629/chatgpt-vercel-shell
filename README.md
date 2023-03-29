@@ -1,4 +1,5 @@
-# First-project
+# 基于ChatGPT-vercel的ssh一键部署
+
 基于@ourongxing ChatGPT-Vercel项目的一些拓展
 
 ## 暂时只有Linux系统的
